@@ -1,0 +1,19 @@
+# Plik requirements.txt
+
+# Flask - mikroframework do budowy aplikacji webowych
+Flask==2.2.2
+
+# SQLAlchemy - ORM do pracy z bazami danych
+SQLAlchemy==1.4.39
+
+# Requests - biblioteka do wykonywania zapytań HTTP
+requests==2.28.1
+
+# Jupyter - narzędzie do tworzenia notatników
+jupyter==1.0.0
+
+# NumPy - biblioteka do obliczeń numerycznych
+numpy==1.23.3
+
+# Pandas - biblioteka do analizy danych
+pandas==1.5.1
