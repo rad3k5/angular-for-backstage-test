@@ -11,6 +11,6 @@ spec:
   dependsOn:
     - resource:default/rt-db
   dependencyOf:
-    - component:default/rt-web-lookup
+    - component:default/rt-angular-app-lookup
   providesApis:
     - rt-api
