@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: rt-web
+  name: rt-angular-app
   description: Lorem ipsum, lorem ipsum
 spec:
   type: website
